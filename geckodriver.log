@@ -1,0 +1,36 @@
+1671707055432	geckodriver	INFO	Listening on 127.0.0.1:51033
+1671707055560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51034" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l1/nrlxjcbj2xjg5lqwwps5ytth0000gn/T/rust_mozprofileul9VSm"
+1671707057033	Marionette	INFO	Marionette enabled
+1671707057105	Marionette	INFO	Listening on port 51046
+Read port: 51046
+2022-12-22 11:04:17.323 plugin-container[4316:83396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:17.324 plugin-container[4316:83396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-22 11:04:17.336 plugin-container[4316:83396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:17.337 plugin-container[4316:83396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-22 11:04:17.337 plugin-container[4316:83393] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:17.337 plugin-container[4316:83393] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51034
+1671707057472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l1/nrlxjcbj2xjg5lqwwps5ytth0000gn/T/rust_mozprofileul9VSm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51034/devtools/browser/bd875ede-702f-4dca-b856-29b3d886198c
+1671707061668	Marionette	INFO	Stopped listening on port 51046
+1671707063355	geckodriver	INFO	Listening on 127.0.0.1:51074
+1671707063871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51075" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l1/nrlxjcbj2xjg5lqwwps5ytth0000gn/T/rust_mozprofileyaNCH0"
+1671707064887	Marionette	INFO	Marionette enabled
+2022-12-22 11:04:24.930 plugin-container[4333:83881] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:24.930 plugin-container[4333:83881] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-22 11:04:24.936 plugin-container[4333:83881] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:24.936 plugin-container[4333:83881] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-22 11:04:24.937 plugin-container[4333:83885] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-22 11:04:24.937 plugin-container[4333:83885] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671707065086	Marionette	INFO	Listening on port 51082
+Read port: 51082
+WebDriver BiDi listening on ws://127.0.0.1:51075
+Read port: 51082
+1671707066432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l1/nrlxjcbj2xjg5lqwwps5ytth0000gn/T/rust_mozprofileyaNCH0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51075/devtools/browser/1c556f0c-8d67-4bd7-b49e-3926b9f1f497
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1671707071637	Marionette	INFO	Stopped listening on port 51082
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 

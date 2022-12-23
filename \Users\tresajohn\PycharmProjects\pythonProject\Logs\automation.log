@@ -1,0 +1,10 @@
+12/22/2022 10:50:20 AM: INFO: ====== WebDriver manager ======
+12/22/2022 10:50:20 AM: INFO: Get LATEST chromedriver version for google-chrome 108.0.5359
+12/22/2022 10:50:21 AM: INFO: Driver [/Users/tresajohn/.wdm/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+12/22/2022 10:50:23 AM: INFO: *********INFO***********
+12/22/2022 10:50:23 AM: INFO: *********Verify HomePage***********
+12/22/2022 10:50:24 AM: INFO: *********Home Page Pass***********
+12/22/2022 10:50:25 AM: INFO: ====== WebDriver manager ======
+12/22/2022 10:50:25 AM: INFO: Get LATEST chromedriver version for google-chrome 108.0.5359
+12/22/2022 10:50:25 AM: INFO: Driver [/Users/tresajohn/.wdm/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+12/22/2022 10:50:27 AM: INFO: *********INFO2***********
